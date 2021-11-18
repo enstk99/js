@@ -1,4 +1,8 @@
-function getMyMangaList() {
-    var arrMyMangaList = ['Ä~¥ÀÄ~©j«ç»ò¤£¨Ó­h«İ§Ú', '¿ú¶i²y³õ'];
+ï»¿function getMyMangaList() {
     return arrMyMangaList;
 }
+var arrMyMangaList = [
+    'ç¹¼æ¯ç¹¼å§æ€éº¼ä¸ä¾†è™å¾…æˆ‘',
+    'éŒ¢é€²çƒå ´',
+    'æµ·ç‹æ˜Ÿç³»åˆ—æ”¶éŒ„'
+];
